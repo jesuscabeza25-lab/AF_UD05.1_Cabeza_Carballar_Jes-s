@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="usuarios.xsd">
+    
+    <usuario>
+        <email>juan.perez@example.com</email>
+        <telefono>954 654 321</telefono>
+        <codigoPostal>41013</codigoPostal>
+        <nombreUsuario>juanPerez12</nombreUsuario>
+        <contrasena>Secreta123!</contrasena>
+    </usuario>
+
+    <usuario>
+        <email>maria.gomez@empresa.es</email>
+        <telefono>600 123 456</telefono>
+        <codigoPostal>28080</codigoPostal>
+        <nombreUsuario>mariaG</nombreUsuario>
+        <contrasena>M@r1a_Gomez</contrasena>
+    </usuario>
+
+    <usuario>
+        <email>c.ruiz@dominio.net</email>
+        <telefono>912 345 678</telefono>
+        <codigoPostal>08001</codigoPostal>
+        <nombreUsuario>carlosr</nombreUsuario>
+        <contrasena>P4ssw0rd$</contrasena>
+    </usuario>
+
+</usuarios>
